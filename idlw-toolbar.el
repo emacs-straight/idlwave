@@ -1,5 +1,5 @@
 ;;; idlw-toolbar.el --- a debugging toolbar for IDLWAVE  -*- lexical-binding: t; -*-
-;; Copyright (c) 1999-2024  Free Software Foundation
+;; Copyright (c) 1999-2024  Free Software Foundation, Inc.
 ;; Author: Carsten Dominik
 ;; Maintainer: J.D. Smith
 ;; Version: 6.5.0
@@ -25,10 +25,6 @@
 
 ;; This file implements a debugging toolbar for IDLWAVE.
 ;; It requires toolbar and xpm support.
-
-;; New versions of IDLWAVE, documentation, and more information
-;; available from:
-;;                 https://github.com/jdtsmith/idlwave
 
 
 ;;; Code:
